@@ -28,7 +28,7 @@ Talk to me about:
 - Data Structures and Algorithms in GO, Java, or Python
 
 What I'm interested in:
-- Bringing Software Development to Under-served and Under-represented communities
+- Bringing Software Development to light in under-served and under-represented communities
 - Serverless Applications
 - Developing SaaS Applications
 - Space and Quantum Physics 
