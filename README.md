@@ -12,7 +12,7 @@
 
 * Former Retail Customer Experience and Operations Expert
 * No CS Background ( until now 😅 )
-* Learner of YouTube University
+* Lifelong Learner of YouTube University
 * Will encourage you to try GO in your team's tech stack
 * Have a 🐩 who is merely human
 * Love sports... no seriously, I LOVE Sports! 
