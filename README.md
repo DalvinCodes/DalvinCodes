@@ -10,7 +10,7 @@
 
 ### <img src="https://gophercises.com/img/gophercises_jumping.gif" width="50"> A little more about me... 
 
-* Former Retail Customer Experience and Operations Expert
+* Former Retail Customer Experience and Operations Leader
 * No CS Background ( until now 😅 )
 * Lifelong Learner of YouTube University
 * Will encourage you to try GO in your team's tech stack
