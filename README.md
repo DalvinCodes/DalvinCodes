@@ -24,7 +24,7 @@ Talk to me about:
 - Refactoring Monolithic Applications into Scalable Microservices
 - API Development in GO and Java
 - Securing APIs
-- Containerization and Orchestration 
+- Web3/Blockchain/Crypto
 - Data Structures and Algorithms in GO, Java, or Python
 
 What I'm interested in:
