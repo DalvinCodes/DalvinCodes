@@ -2,9 +2,7 @@
 
 <img align='right' src="https://www.nicepng.com/png/full/412-4126643_how-go-gopher.png" width="180">
 
-<p><em>Software Engineer at T-Mobile </a><img src="https://media.giphy.com/media/QAIFFb7XDhM4TVkHg4/giphy.gif" width="50">
 
-[![Twitter: MagentaRockstar](https://img.shields.io/twitter/follow/MagentaRockstar?style=social)](https://twitter.com/MagentaRockstar)
 [![Linkedin: dalvinmatthews](https://img.shields.io/badge/-dalvinmatthews-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dalvinmatthews/)](https://www.linkedin.com/in/dalvinmatthews/)
 [![GitHub DalvinCodes](https://img.shields.io/github/followers/DalvinCodes?label=follow&style=social)](https://github.com/DalvinCodes)
 
